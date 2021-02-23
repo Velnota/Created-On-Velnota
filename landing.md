@@ -39,7 +39,7 @@ So how do you get started?
 					<h3>Create a GitHub account</h3>
 				</header>
 				<p>In order to allow us to view your product, you must first register
-a GitHub account. After you've registered, head to https://github.com/Velnota/Created-On-Velnota
+a GitHub account. After you've registered, head to <a href="https://github.com/Velnota/Created-On-Velnota">https://github.com/Velnota/Created-On-Velnota</a>
 and click on Issues. Then file a "New Product" submission.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Velnota/Created-On-Velnota/issues/new?assignees=&labels=product&template=product.md" class="button">
@@ -89,17 +89,18 @@ cool, we'll love it, and the floor is yours!</p>
 	</section>
 </section>
 
-<!-- Three 
+<!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Afterwords</h2>
 		</header>
-		<p></p>
+		<p>We'll review any images to remove location information. Please make 
+sure you add all valid contributors to this article. In order to edit an article 
+in the future, we'll need to have all GitHub usernames that can edit that post.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="https://github.com/Velnota/Created-On-Velnota/" class="button next">Get Started</a></li>
 		</ul>
 	</div>
 </section>
--->
 </div>

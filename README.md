@@ -31,7 +31,9 @@ to thousands of people around the world!
 Uses Jekyll and [Forty theme](https://github.com/andrewbanchich/forty-jekyll-theme).
 
 You can contribute to the Velnota Products Page by
-being bound to the given licenses.
+being bound to the given licenses. You may only edit a post
+that lists you as a contributor at the end of the article.
+Specifically, your GitHub username.
 
 Please read our [security policy](/SECURITY.md) for
 reporting any bugs or vulnerabilities in Velnota or

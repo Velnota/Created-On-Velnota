@@ -1,5 +1,5 @@
 All contributions, including merge requests, feature requests, ideas, design tweaks, etc. are welcome. 
-I welcome all input, from sharing your own implementations of code to general thoughts and ideas. Just open a new issue!
+Velnota welcomes all input, from sharing your own implementations of code to general thoughts and ideas. Just open a new issue!
 
 ## Feature Requests
 
@@ -11,5 +11,9 @@ code submission via a merge/pull request is great, but not necessary.
 If you encounter any issues with these themes on any devices, please submit a bug report with the device type and a detailed description of what 
 the issue that you're encountering is.
 <br /><br />
+
+## Editing posts
+
+You may only edit a post that lists you as a contributor at the end of the article. Specifically, your GitHub username.
 
 *Thank you*
