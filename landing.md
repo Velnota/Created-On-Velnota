@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Suggesting a Product from Velnota
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'The next product... how will it help?'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,17 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Introduction</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+<p>
+Velnota hosts the world's ideas. Products start and thrive on Velnota,
+so we get why you're pretty excited to get rolling. You want to market
+your product on this showcase, but is it worthy? Will it change everyone's
+lives, or will it change the life of a single soul? Do you think people
+want to purchase your product? Is the idea great? If it started and was
+developed on Velnota, then <b>of course</b> it is!
+So how do you get started?
+</p>
 	</div>
 </section>
 
@@ -28,11 +36,14 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Create a GitHub account</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>In order to allow us to view your product, you must first register
+a GitHub account. After you've registered, head to https://github.com/Velnota/Created-On-Velnota
+and click on Issues. Then file a "New Product" submission.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Velnota/Created-On-Velnota/issues/new?assignees=&labels=product&template=product.md" class="button">
+                    File Here</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,11 +55,13 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Velnota's Your Investor</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Make sure when you fill out the form, you give us enough information
+but not <strong>too</strong> much. We understand the struggles of getting a product out,
+but we can only view so many! Convince us! We're you're investors.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.lifehack.org/articles/communication/12-practical-ways-persuade-anyone-anything-easily.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -60,28 +73,33 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Recognition</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>All products on Velnota are great. We want you to showcase it cleanly
+to the world. Once your product has been approved, it'll appear on the frontpage. But you've
+got a pretty big task up ahead of you. You'll be creating a mini blog post about the
+product and what impact it'll make -- on us, you, and others around the world. Prepare this
+post with some images, perhaps a video, or just a simple talk about your product. It's
+cool, we'll love it, and the floor is yours!</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="/" class="button">Homepage</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 </section>
 
-<!-- Three -->
+<!-- Three 
 <section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p></p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
 </section>
-
+-->
 </div>
