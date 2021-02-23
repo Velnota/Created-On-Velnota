@@ -1,0 +1,30 @@
+# site settings
+title: Creations
+subtitle: on Velnota
+email: feedback@velnota.com
+description: A showcase of the most visionary-centric products -- created, developed, and persist on Velnota.
+baseurl: ""
+url: https://creations.velnota.com
+author: Velnota
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/Velnota/Created-On-Velnota
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
