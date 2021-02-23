@@ -23,3 +23,9 @@ If you really want to intrude on people's privacy, you can add custom gestures
 and code to take a picture of a person's face, do a lookup on Google, and find
 out all their social media, name, address, and voter information (that's how
 you know everything) and load it on your phone for quick viewing.
+
+This is the only smart glasses that makes you look normal and not like a geek.
+We want people to say "Hi" to you and not think you're a hacker or some
+privacy intrusive peeper. No button smart glasses.
+
+By: [@Andrew-Chen-Wang](https://github.com/Andrew-Chen-Wang)
